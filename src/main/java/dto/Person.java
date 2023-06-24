@@ -3,7 +3,7 @@ package dto;
 /**
  * @author Mahdi Mohammadi, 5/26/2023 9:34 PM
  */
-//comment1
+//comment2
 public class Person {
     //master
     private String name;
